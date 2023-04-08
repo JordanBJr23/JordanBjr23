@@ -13,13 +13,14 @@
 <div id="badges" align="center">
     <a href="https://www.instagram.com/jordanem_26/">
         <img src="https://img.shields.io/badge/-jordanem__26-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Instagram Badge" />
+        alt="Instagram Badge" />
     </a>
-
-    <a href="https://www.facebook.com/Jordan-EM-101924298820199">
-        <img src="https://img.shields.io/badge/Facebook-JordanEM-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"
-            alt="Facebook Badge" />
-    </a>
+    
+   <a href="https://www.facebook.com/profile.php?id=100007405662547">
+       <img src="https://img.shields.io/badge/Jordan EM-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white" 
+        alt="Facebook Badge" />
+  </a>
+   
 </div>
 <hr>
 <h2>👨🏽‍💻 Sobre mí:</h2>
